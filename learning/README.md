@@ -2,4 +2,4 @@
 
 ### links
 
-(https://opendata.stackexchange.com/questions/11571/api-machine-access-for-gapminder-data)
+https://opendata.stackexchange.com/questions/11571/api-machine-access-for-gapminder-data
